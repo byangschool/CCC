@@ -6,11 +6,11 @@ Written by **Benson Yang**
 
 Uses :
 
-Truffle v4.1.15
+ Truffle v4.1.15
 
-Solidity v0.4.25
+ Solidity v0.4.25
 
-Web3 v0.20.7
+ Web3 v0.20.7
 
 ## Getting Started
 
