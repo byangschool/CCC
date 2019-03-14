@@ -50,7 +50,7 @@ Program is now ready to run.
 
  Format is "ExampleToken.deployed(_Name,_Symbol,_Decimal).then((t) => {token = t;})"
 
- ![alt text](https://github.com/byangschool/CCC/blob/master/Images/Tut1.png)
+![alt text](https://github.com/byangschool/CCC/blob/master/Images/Tut1.png)
  
   Format is "ExampleTokenCrowdsale.deployed(_rate,_wallet,_token,_cap)).then((t) => {token = t;})"
  
