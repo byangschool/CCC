@@ -34,7 +34,7 @@ Webstorm IDE. Download [here](https://www.jetbrains.com/webstorm/).
 
 To see code, download the program and open it using Webstorm.
 
-To run, open using terminal and go to file location
+To run, open using terminal and go to file location.
 
 Run these in order :
  
@@ -86,7 +86,7 @@ Program is now ready to run.
     
 ### Homework Questions
 
-Number 1 : Chance the minimum contribution to 5 ether. (20points)
+Number 1 : Change the minimum contribution to 5 ether. (20points)
 
  ![alt text](https://github.com/byangschool/CCC/blob/master/Images/updateMin.png)
 
