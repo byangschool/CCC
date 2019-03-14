@@ -61,26 +61,26 @@ Program is now ready to run.
    ![alt text](https://github.com/byangschool/CCC/blob/master/Images/tut3%20owner.png)
    
    Number 1 :
-   
-    ![alt text](https://github.com/byangschool/CCC/blob/master/Images/tutQ1.png)
+    
+   ![alt text](https://github.com/byangschool/CCC/blob/master/Images/tutQ1.png)
    
     Error due to the minimum contribution cap being set to 2 ether, and you are trying to buy with 1 ether
     
     Number 2 :
     
-     ![alt text](https://github.com/byangschool/CCC/blob/master/Images/tutQ2.png)
+   ![alt text](https://github.com/byangschool/CCC/blob/master/Images/tutQ2.png)
      
      Successful since minimum contribution cap is 2 ether, and you are trying to buy with 2 ether
      
      Number 3 :
      
-      ![alt text](https://github.com/byangschool/CCC/blob/master/Images/tutQ3.png)
+   ![alt text](https://github.com/byangschool/CCC/blob/master/Images/tutQ3.png)
       
       Successful since HardCap is equal to 50 ether, and 2 + 48 = 50 ether
       
       Number 4 : 
       
-       ![alt text](https://github.com/byangschool/CCC/blob/master/Images/tutq4.png)
+   ![alt text](https://github.com/byangschool/CCC/blob/master/Images/tutq4.png)
        
        Error due to it passing the HardCap. 50 + 1 = 51 ether.
     
@@ -120,13 +120,13 @@ Number 2 : Add method, getTokensLeft, to report how many tockens are left. (30po
    
    Number 3 : Return how many tokens are left (10 points)
    
-    ![alt text](https://github.com/byangschool/CCC/blob/master/Images/assiQ3.png)
+   ![alt text](https://github.com/byangschool/CCC/blob/master/Images/assiQ3.png)
     
     There is math behind this, will get back to it if time is available
     
     Number 4 : Graduate Students : Buy tokens (again) with 25 ether (10 points)
     
-     ![alt text](https://github.com/byangschool/CCC/blob/master/Images/assiQ4.png)
+   ![alt text](https://github.com/byangschool/CCC/blob/master/Images/assiQ4.png)
      
      Successful since HardCap is 50 and only 25+15 Ether has been used to buy
      
