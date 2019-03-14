@@ -130,8 +130,6 @@ Number 2 : Add method, getTokensLeft, to report how many tockens are left. (30po
    
    ![alt text](https://github.com/byangschool/CCC/blob/master/Images/assiQ3.png)
     
-    There is math behind this, will get back to it if time is available
-    
  Number 4 : Graduate Students : Buy tokens (again) with 25 ether (10 points)
     
    ![alt text](https://github.com/byangschool/CCC/blob/master/Images/assiQ4.png)
