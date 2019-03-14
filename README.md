@@ -32,7 +32,7 @@ Webstorm IDE. Download [here](https://www.jetbrains.com/webstorm/).
 
 ### Running the program
 
-To see code, download the program and open it using Webstorm to see code.
+To see code, download the program and open it using Webstorm.
 
 To run, open using terminal and go to file location
 
