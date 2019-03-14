@@ -3,7 +3,7 @@ var ExampleTokenCrowdsale = artifacts.require("./ExampleTokenCrowdsale.sol");
 
 const ether = (n) => new web3.BigNumber(web3.toWei(n, 'ether'));
 
-    maxToken = ether(200);
+cap = ether(200);
 module.exports = async function(deployer , network , accounts) {
     const _name = "Example Token";
     const _symbol = "EXM";
