@@ -52,11 +52,11 @@ Program is now ready to run.
 
  ![alt text](https://github.com/byangschool/CCC/blob/master/Images/Tut1.png)
  
-  Format is "ExampleTokenCrowdsale.deployed(_rate,_wallet,_token,_cap)).then((t) => {token = t;})
+  Format is "ExampleTokenCrowdsale.deployed(_rate,_wallet,_token,_cap)).then((t) => {token = t;})"
  
   ![alt text](https://github.com/byangschool/CCC/blob/master/Images/tut2.png)
   
-   Format is "token.transferOwnership(sale.address)
+   Format is "token.transferOwnership(sale.address)"
   
    ![alt text](https://github.com/byangschool/CCC/blob/master/Images/tut3%20owner.png)
    
