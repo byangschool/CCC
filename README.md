@@ -106,6 +106,14 @@ Number 2 : Add method, getTokensLeft, to report how many tockens are left. (30po
  Rate : 450 tokens x Ether
  Cap : 150 Ether
  
+ ### Repeat steps above
+ 
+ ![alt text](https://github.com/byangschool/CCC/blob/master/Images/assi1.png)
+ 
+ ![alt text](https://github.com/byangschool/CCC/blob/master/Images/assi2.png)
+ 
+ ![alt text](https://github.com/byangschool/CCC/blob/master/Images/assi3.png)
+ 
  Number 1 : Try to buy tokens with 2.5 ether (10 points)
  
   ![alt text](https://github.com/byangschool/CCC/blob/master/Images/assiQ1.png)
